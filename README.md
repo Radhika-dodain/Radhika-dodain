@@ -25,7 +25,7 @@
 <p align="left">🎓 Electronics & Telecommunication Engineering student (Class of '28)
 
 💻Passionate about **competitive programming** and **web development** <br>
-💻Currently learning frontend development and active on Codeforces<br>
+💻Currently learning frontend development and active on LeetCode<br>
 ✍️Beyond tech, I enjoy content writing and storytelling 
 
 
