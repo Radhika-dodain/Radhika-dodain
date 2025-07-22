@@ -62,5 +62,9 @@
   <img src="https://streak-stats.demolab.com?user=Radhika-dodain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak Graph" />
 </div>
 
+###
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhika-dodain&show_icons=true&theme=transparent&hide_border=true)
+
 
 ###
